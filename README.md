@@ -26,12 +26,16 @@ This project is a simple JavaScript-based calculator that performs basic arithme
 
    Screenshots
 
-![image](https://github.com/user-attachments/assets/aea4db80-3670-4d52-930c-1dcfd59a90a8)
-![image](https://github.com/user-attachments/assets/cff25de7-b9a9-49c1-8f74-36bc064885c7)
-![image](https://github.com/user-attachments/assets/56233009-bb5a-4fe6-b45e-f636f9067529)
-![image](https://github.com/user-attachments/assets/af4464fe-7c74-4cbf-b4ed-7c812898f4da)
-![image](https://github.com/user-attachments/assets/2e3d181c-1845-4b4c-91a2-f74774b289fe)
-![image](https://github.com/user-attachments/assets/d1628e3b-cad7-42f2-b05a-e121a2411a75)
+![image](https://github.com/user-attachments/assets/32edc954-a458-47e8-a295-c002a5f18008)
+![image](https://github.com/user-attachments/assets/d4e2dfc0-b69c-4b4d-954d-899b74ebff4d)
+![image](https://github.com/user-attachments/assets/20695a00-2035-4cdc-ae42-3447522f5687)
+![image](https://github.com/user-attachments/assets/3bd58912-3b6c-4b04-a32b-59ec30f494ca)
+![image](https://github.com/user-attachments/assets/027a8b23-4bb6-4568-99c4-a7ae56540fb6)
+![image](https://github.com/user-attachments/assets/d807d702-bf1c-4601-9476-e299abb05ca3)
+
+
+
+
 
 
 
