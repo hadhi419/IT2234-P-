@@ -1,20 +1,20 @@
   Day 1 - Basics
 
-   Description
+   Description : 
 This project is a simple JavaScript-based calculator that performs basic arithmetic operations, prints numbers in different orders, and executes a specific number task. The project is designed for learning JavaScript fundamentals.
 
-   Features
+   Features : 
 - Addition, Subtraction, Division, and Multiplication of two numbers.
 - Printing numbers in between two inputs.
 - Printing numbers in reverse order.
 - Printing odd numbers in between two inputs.
 - Performing a number-based task.
 
-   Technologies Used
+   Technologies Used : 
 - HTML
 - JavaScript
 
-   How to Use
+   How to Use : 
 1. Open `index.html` in a web browser.
 2. Enter two numbers in the input fields labeled   Number 1   and   Number 2  .
 3. Click the respective buttons to perform the desired operations:
