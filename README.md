@@ -18,6 +18,8 @@ Introduction to JSON: Understanding JSON structure, creating simple JSON objects
 ![image](https://github.com/user-attachments/assets/8a6ecf1c-305b-456e-92d4-6069004e9d09)
 ![image](https://github.com/user-attachments/assets/cfe373cc-79b1-4586-b1c2-4952f61ba123)
 ![image](https://github.com/user-attachments/assets/a95e48b7-f547-4326-8677-efa484379504)
+![image](https://github.com/user-attachments/assets/93151f47-55c2-4f2a-8adf-1c16718d8608)
+
 
 
 
